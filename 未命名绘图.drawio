@@ -52,6 +52,12 @@
         <mxCell id="Q0tnMBf9tTAo9GiRD6wi-18" value="ip route add 10.124.0.0/20 via 10.100.0.3 dev eth1" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-220" y="470" width="300" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Q0tnMBf9tTAo9GiRD6wi-20" value="  left=192.241.177.97&#xa;  leftid=192.241.177.97&#xa;  leftsubnet=10.100.0.0/20&#xa;  right=137.184.235.139&#xa;  rightsubnet=10.124.0.0/20" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="50" y="550" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0tnMBf9tTAo9GiRD6wi-21" value="  left=137.184.235.139&#xa;  leftid=137.184.235.139&#xa;  leftsubnet=10.124.0.0/20&#xa;  right=192.241.177.97&#xa;  rightsubnet=10.100.0.0/20" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="550" width="180" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
