@@ -34,6 +34,18 @@
         <mxCell id="Q0tnMBf9tTAo9GiRD6wi-10" value="10.124.0.5" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="615" y="390" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Q0tnMBf9tTAo9GiRD6wi-11" value="ubuntu-s-2vcpu-4gb-nyc2-02" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="430" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0tnMBf9tTAo9GiRD6wi-12" value="ubuntu-s-2vcpu-4gb-nyc2-01" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="140" y="430" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0tnMBf9tTAo9GiRD6wi-13" value="ubuntu-s-2vcpu-4gb-sfo3-01" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="430" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0tnMBf9tTAo9GiRD6wi-14" value="luke-centos-s-2vcpu-4gb-amd-sfo3-01" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="560" y="430" width="240" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
